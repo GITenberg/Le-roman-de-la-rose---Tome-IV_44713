@@ -1,0 +1,42 @@
+_repo: Le-roman-de-la-rose---Tome-IV_44713
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Guillaume, de Lorris, active 1230
+    aliases:
+    - De Lorris, Guillaume
+    - Lorris, Guillaume de
+    gutenberg_agent_id: '6951'
+    url: http://www.gutenberg.org/2009/agents/6951
+  - agent_name: Jean, de Meun
+    aliases:
+    - Chopinel, Jean
+    - Meun, Jean de
+    - De Meun, Jean
+    - Clopinel, Jean
+    - Jehan, de Meun
+    - Meung, Jean de
+    deathdate: 1304
+    gutenberg_agent_id: '6952'
+    url: http://www.gutenberg.org/2009/agents/6952
+    wikipedia: http://en.wikipedia.org/wiki/Jean_de_Meun
+description: "Édition accompagnée d'une traduction en vers\r\nPrécédée d'une introduction,\
+  \ Notices historiques et critiques; suivie de notes et d'un glossaire"
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2014-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44713'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtly love -- Poetry'
+- !lcc 'PQ'
+- !lcsh 'Romances'
+title: Le roman de la rose - Tome IV
+url: http://www.gutenberg.org/ebooks/44713
